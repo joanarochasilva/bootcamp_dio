@@ -12,3 +12,4 @@ def menu():
 
     """
     return input(menu())
+
